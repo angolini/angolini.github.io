@@ -139,6 +139,7 @@ Remember to change the current directory to the metalayer.
 
 Build the image again. The new image binary reflects the changes in Linux Kernel, and in case the change removes some kernel module, the rootfs also reflects the change.
 
+```
 $ cd <BSP_DIR>/bld-xwayland
 $ bitbake <image-name>
-
+```
