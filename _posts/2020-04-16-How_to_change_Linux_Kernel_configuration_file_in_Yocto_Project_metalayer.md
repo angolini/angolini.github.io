@@ -3,12 +3,6 @@ layout: post
 title: How to change Linux Kernel configuration file in Yocto Project metalayer
 date: 2020-04-16 10:54:20
 ---
-<!---
-Copyright 2020 NXP
-To generate the HTML:
-
-$ pandoc -s howto.md -o yocto-defconfig.html
--->
 
 It is common that the metalayer providing a Linux Kernel recipe includes a default configuration file for the Linux Kernel source code (the `defconfig` file).
 
@@ -45,7 +39,7 @@ $ git checkout fd263a3edd95dfe812397fabf1059b5f99bba2ab -b change_defconfig
 
 ### Customize the configuration
 
-Using the default `defconfig` as a base, configure the Linux Kernel, and then use `make menuconfig` to change the configuration as desired. 
+Using the default `defconfig` as a base, configure the Linux Kernel, and then use `make menuconfig` to change the configuration as desired.
 
 After the customization, generate a new `defconfig` file and replace the default one.
 
@@ -85,7 +79,7 @@ Review the change and create a commit, with that commit, create a patch.
 TIP: The `defconfig` file can also be directly changed. The `make menuconfig` can be skipped in that case.
 
 ```
-$ git add arch/arm64/configs/defconfig 
+$ git add arch/arm64/configs/defconfig
 $ git commit  -s -m "defconfig: Customize defconfig"
 $ git format-patch -1
 0001-defconfig-Customize-defconfig.patch
@@ -129,7 +123,7 @@ index 214647abb..3f926314c 100644
  KERNEL_SRC ?= "git://source.codeaurora.org/external/imx/linux-imx.git;protocol=https"
  SRC_URI = "${KERNEL_SRC};branch=${KERNEL_BRANCH}"
 +SRC_URI += "file://0001-defconfig-Customize-defconfig.patch "
- 
+
  SRCREV = "fd263a3edd95dfe812397fabf1059b5f99bba2ab"
 ```
 
@@ -143,3 +137,10 @@ Build the image again. The new image binary reflects the changes in Linux Kernel
 $ cd <BSP_DIR>/bld-xwayland
 $ bitbake <image-name>
 ```
+
+<!---
+Copyright 2020 NXP
+To generate the HTML:
+
+$ pandoc -s howto.md -o yocto-defconfig.html
+-->
