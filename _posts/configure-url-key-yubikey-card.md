@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to configure git using a key created on another machine
+title: How to fetch public key from keyserver
 date: 2022-09-05 14:00:00
 ---
 
