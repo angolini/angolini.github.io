@@ -1,13 +1,13 @@
 ---
 layout: post
 title: How to configure git using a key created on another machine
-date: 2022-06-16 10:54:20
+date: 2022-09-05 10:54:20
 ---
 
 Install the needed packages (including those needed for Yubikey)
 
 ```
-sudo apt-get install pcscd scdaemon gnupg2 pcsc-tools 
+sudo apt-get install pcscd scdaemon gnupg2 pcsc-tools
 ```
 
 Import the public key
@@ -38,4 +38,3 @@ Configure git with:
 ```
 git config --global user.signingkey KEYID
 ```
-
