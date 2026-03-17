@@ -3,7 +3,7 @@ title: WaRP7 supported on Yocto Project by meta-fsl-arm-extra
 redirect_from: blog/ann/2016/09/21/WaRP7_supported_on_Yocto_Project_by_meta-fsl-arm-extra/
 date: 2016-09-21 16:20:21
 author: daiane
-tags: [IMX7S, warp7, yocto, meta-fsl-arm-extra, meta-freescale ]
+tags: ["imx7s", "warp7", "yocto", "meta-fsl-arm-extra", "meta-freescale"]
 ---
 
 WaRP7 is supported in Yocto Project since **Krogoth**, but now it uses the kernel from [linux-warp7](https://github.com/WaRP7/linux-fslc) by default. Of course, it's also available on **master** branch.

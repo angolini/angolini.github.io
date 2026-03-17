@@ -2,7 +2,7 @@
 title: Audio loopback between two imx using USB UAC2
 date: 2017-02-24 10:41:21
 author: daiane
-tags: [usb, L4.1.15_2.0.0_GA, IMX7D, IMX6UL]
+tags: ["usb", "l4.1.15_2.0.0_ga", "imx7d", "imx6ul"]
 ---
 
 UAC can be used to transfer audio using the USB connection. This tutorial shows

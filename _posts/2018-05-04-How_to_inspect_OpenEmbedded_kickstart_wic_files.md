@@ -2,7 +2,7 @@
 title: How to inspect OpenEmbedded kickstart wic files
 date: 2018-05-04 17:16:45
 author: daiane
-tags: [yocto, wic, image, openembedded, wks]
+tags: ["yocto", "wic", "image", "openembedded", "wks"]
 ---
 
 The disk image format used in the Yocto Project is `wic`. Follow this [link][1] to

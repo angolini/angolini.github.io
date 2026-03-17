@@ -1,7 +1,7 @@
 ---
 title: "References used in this blog"
 date: 2024-02-21 00:00:00 +0000
-tags: ["Notion"]
+tags: ["notion"]
 ---
 I love the sidebar organization and the footer from:
 

@@ -2,7 +2,7 @@
 title: How to install apt-get to the Yocto Project image
 date: 2017-10-11 10:46:57
 author: daiane
-tags: [install, yocto, IMX6, apt-get]
+tags: ["install", "yocto", "imx6", "apt-get"]
 ---
 
 This post brings the step-by-step on how to configure an Yocto Project image to

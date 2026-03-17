@@ -1,7 +1,7 @@
 ---
 title: "How to flash SDCards using bmaptool"
 date: 2023-03-09 00:00:00 +0000
-tags: ["Image"]
+tags: ["image"]
 ---
 Install the `bmap-tools`. I'm using Ubuntu, so for me, it's:
 

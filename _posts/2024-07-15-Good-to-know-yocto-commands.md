@@ -1,7 +1,7 @@
 ---
 title: "Good to know yocto commands"
 date: 2024-07-15 17:27:00 +0000
-tags: ["Yocto"]
+tags: ["yocto"]
 ---
 ### List all the bbappend files
 

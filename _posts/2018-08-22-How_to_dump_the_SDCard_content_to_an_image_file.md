@@ -2,7 +2,7 @@
 title: How to dump the SDCard content to an image file
 date: 2018-08-22 09:58:50
 author: daiane
-tags: [fdisk, sdcard, image]
+tags: ["fdisk", "sdcard", "image"]
 ---
 
 This post shows a way to dump the content of a booting SDCard to an image file

@@ -2,7 +2,7 @@
 title: How to install a lot of gstreamer ugly plugins
 date: 2017-07-11 14:13:43
 author: daiane
-tags: [yocto, GStreamer, ugly, asf, libav]
+tags: ["yocto", "gstreamer", "ugly", "asf", "libav"]
 ---
 
 Are you in a hurry and need to install every ugly plugin in yocto? Don't think twice.

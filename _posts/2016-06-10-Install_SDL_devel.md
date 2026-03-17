@@ -3,7 +3,7 @@ title: Install SDL devel
 redirect_from:  blog/tutorial/2016/06/10/Install_SDL_devel/
 date: 2016-06-10 09:52:01
 author: daiane
-tags: [yocto, poky, error, SDL, jethro,L4.1.15_1.0.0_GA]
+tags: ["yocto", "poky", "error", "sdl", "jethro", "l4.1.15_1.0.0_ga"]
 ---
 When working with **imx-4.1.15-1.0.0_ga** you may face the following error
 

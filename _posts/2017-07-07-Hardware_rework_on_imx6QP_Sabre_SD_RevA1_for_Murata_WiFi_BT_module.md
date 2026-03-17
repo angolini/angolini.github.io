@@ -2,7 +2,7 @@
 title: Hardware rework on imx6QP Sabre SD RevA1 for Murata WiFi BT module
 date: 2017-07-07 09:56:44
 author: daiane
-tags: [murata,wifi,bluetooth,IMX6QP,LBEH5HMZPC]
+tags: ["murata", "wifi", "bluetooth", "imx6qp", "lbeh5hmzpc"]
 ---
 
 This post shows the hardware rework needed to get Murata WiFi/BT module working

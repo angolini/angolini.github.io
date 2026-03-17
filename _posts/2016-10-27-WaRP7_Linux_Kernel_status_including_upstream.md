@@ -2,7 +2,7 @@
 title: WaRP7 Linux Kernel status including upstream
 date: 2016-10-27 10:51:12
 author: daiane
-tags: [ warp7, IMX7S, kernel ]
+tags: ["warp7", "imx7s", "kernel"]
 ---
 We have been working to code and upstream as much WaRP7 features as we can.
 Currently we are working on a 3 different Linux Kernel source code repositories,

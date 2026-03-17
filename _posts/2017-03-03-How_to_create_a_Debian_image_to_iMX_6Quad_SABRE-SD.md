@@ -2,7 +2,7 @@
 title: How to create a Debian image to iMX 6Quad SABRE-SD
 date: 2017-03-03 10:19:56
 author: daiane
-tags: [debian, IMX6QDL ]
+tags: ["debian", "imx6qdl"]
 ---
 
 Prepare the host machine installing the following packages:

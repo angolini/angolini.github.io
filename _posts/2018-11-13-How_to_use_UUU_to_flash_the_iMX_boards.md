@@ -2,7 +2,7 @@
 title: How to use UUU to flash the iMX boards
 date: 2018-11-13 13:06:15
 author: daiane
-tags: [IMX8, IMX8QXP, mfgtools, uuu, L4.14.62_1.0.0_Beta ]
+tags: ["imx8", "imx8qxp", "mfgtools", "uuu", "l4.14.62_1.0.0_beta"]
 ---
 
 UUU is the next version of MFGTools, a tool used to load the software on the
