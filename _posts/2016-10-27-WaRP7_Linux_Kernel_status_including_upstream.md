@@ -10,7 +10,7 @@ with different upstream levels and content, depending on each community guidelin
 
 * **linux-warp7:** [https://github.com/WaRP7/linux-fslc](https://github.com/WaRP7/linux-fslc)
 * **linux-fslc-imx:** [https://github.com/Freescale/linux-fslc/tree/4.1-1.0.x-imx](https://github.com/Freescale/linux-fslc/tree/4.1-1.0.x-imx)
-* **kernel.org:**  [https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.9-rc2](kernel.org)
+* **kernel.org:**  [https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.9-rc2](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.9-rc2)
 
 |Features | linux-warp7 | linux-fslc-imx | kernel.org|
 | ------- |:------:|:------:|:------:|

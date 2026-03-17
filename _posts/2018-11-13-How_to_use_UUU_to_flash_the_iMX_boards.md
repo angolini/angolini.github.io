@@ -34,7 +34,7 @@ Windows.
 
 The i.MX 8QXP MEK is shown in the following picture:
 
-<center><img src="{{ absolute_url }}/images/imx8qxp-top.jpg" width="80%"/></center>
+<center><img src="/assets/img/posts/imx8qxp-top.jpg" alt="imx8qxp top" width="80%"/></center>
 
 ## Connect the board
 

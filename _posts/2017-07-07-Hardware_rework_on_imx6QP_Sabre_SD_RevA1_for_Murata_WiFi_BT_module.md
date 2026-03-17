@@ -49,16 +49,16 @@ Depopulated the SPI NOR FLASH (if present) and populate `R209`, `R210`, `R211`,
 
 The picture below shows the final result after the rework:
 
-<img src="{{ absolute_url }}/images/rework-sabresd-reva1.png">
+<img src="/assets/img/posts/rework-sabresd-reva1.png" alt="rework sabresd reva1">
 
 To help you locate the right pads, see a snapshot of `DNP-28857_A.pdf` layout file:
 
-<img src="{{ absolute_url }}/images/layout.png" width="50%">
+<img src="/assets/img/posts/layout.png" alt="layout" width="50%">
 
 The tested module was LBEH5HMZPC-TEMP-DS-SD (Type ZP EVK+). See the connections
 in the picture below:
 
-<img src="{{ absolute_url }}/images/imx6qpsabresd-wifibt-module.jpg">
+<img src="/assets/img/posts/imx6qpsabresd-wifibt-module.jpg" alt="imx6qp sabresd wifi bt module">
 
 The files `SPF-28857_A2.pdf` and `DNP-28857_A.pdf` are included in **i.MX6QP Schematics**.
 

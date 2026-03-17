@@ -6,7 +6,7 @@ author: daiane
 
 The imx6ul-pico-hobbit board is defined by TechNexion [here](http://www.technexion.com/images/files/pico-imx6ul/pico-imx6ul-emmc-rev100.pdf) and by Wandboard.org [here](http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/imx6ul-pico-hobbit.png">
+<img src="/assets/img/posts/imx6ul-pico-hobbit.png" alt="imx6ul pico hobbit">
 
 It is supported by **Yocto Project** in `meta-fsl-arm-extra` meta-layer. The commit adding it is:
 

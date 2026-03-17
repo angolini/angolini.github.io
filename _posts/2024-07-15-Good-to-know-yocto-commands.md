@@ -17,7 +17,7 @@ bitbake-layers show-appends
 bitbake <recipe> -g
 ```
 
-It generates a file [`task-depends.dot`](http://task-depends.dot) you can open on any text editor, but I’m still working to get it rendered as a graph (as it’s a huge graph).
+It generates a file `task-depends.dot` you can open on any text editor, but I’m still working to get it rendered as a graph (as it’s a huge graph).
 
 ### Refs:
 

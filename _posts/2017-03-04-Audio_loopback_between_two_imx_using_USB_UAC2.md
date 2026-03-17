@@ -25,7 +25,7 @@ and the following command lines.
 
 See the connections I used in the following image.
 
-<img src="{{ absolute_url }}/images/audio-loopback.jpg ">
+<img src="/assets/img/posts/audio-loopback.jpg" alt="audio loopback">
 
 How to record the remote audio
 ----------
