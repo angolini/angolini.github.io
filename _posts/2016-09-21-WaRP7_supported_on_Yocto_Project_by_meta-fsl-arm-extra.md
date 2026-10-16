@@ -20,7 +20,7 @@ This kernel currently provides support for:
 * NXP BC3770 Battery charger IC
 * Murata 1DX Wi-Fi + Bluetooth
 
-You can download the pre-built for this board from [Blink](http://blink.ossystems.com.br/boards/imx7s-warp?processor=15) (thanks to FSL Community BSP).
+You can download the pre-built for this board from Blink (link no longer available: `http://blink.ossystems.com.br/boards/imx7s-warp?processor=15`) (thanks to FSL Community BSP).
 
 **fsl-image-machine-test** should have all the packages you need to test the sensors such as:
 * evtest

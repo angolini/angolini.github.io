@@ -103,7 +103,7 @@ debugfs 1.42.13 (17-May-2015)
 ```
 
 [1]: https://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html#creating-partitioned-images-using-wic
-[FSL Community BSP]: http://freescale.github.io/#download
+[FSL Community BSP]: https://freescale.github.io/#download
 
 ---
 This post was originally posted on [i.MXDev Blog](https://imxdev.gitlab.io/).

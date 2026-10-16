@@ -64,7 +64,7 @@ The files `SPF-28857_A2.pdf` and `DNP-28857_A.pdf` are included in **i.MX6QP Sch
 
 ## External Links
 
-1. [Murata Quick Start Guide](http://wireless.murata.com/RFM/data/murata_quick_start_guide_linux.pdf){: .btn .btn--info}
+1. [Murata Quick Start Guide](https://wireless.murata.com/RFM/data/murata_quick_start_guide_linux.pdf){: .btn .btn--info}
 2. [i.MX6QP Sabre SD Schematics](https://www.nxp.com/webapp/Download?colCode=i.MX6_SABRE_SDP_DESIGNFILES&appType=license&Parent_nodeId=1337723891654732089522&Parent_pageType=product
 ){: .btn .btn--info}
 

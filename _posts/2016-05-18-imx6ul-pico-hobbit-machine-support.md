@@ -4,7 +4,7 @@ date: 2016-05-18 12:34:56
 author: daiane
 ---
 
-The imx6ul-pico-hobbit board is defined by TechNexion [here](http://www.technexion.com/images/files/pico-imx6ul/pico-imx6ul-emmc-rev100.pdf) and by Wandboard.org [here](http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf)
+The imx6ul-pico-hobbit board is defined by TechNexion here (link no longer available: `http://www.technexion.com/images/files/pico-imx6ul/pico-imx6ul-emmc-rev100.pdf`) and by Wandboard.org here (link no longer available: `http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf`)
 
 <img src="/assets/img/posts/imx6ul-pico-hobbit.png" alt="imx6ul pico hobbit">
 
@@ -19,7 +19,7 @@ In **kernel.org**, the commit adding it is:
 
 In **U-Boot** the commit adding it is:
 
-<http://git.denx.de/?p=u-boot.git;a=commit;h=69cc7dbf1f62492788ab810db7d8444a623c23c2>
+<https://git.denx.de/?p=u-boot.git;a=commit;h=69cc7dbf1f62492788ab810db7d8444a623c23c2>
 
 ## How to update (or copy) the software
 
@@ -53,7 +53,7 @@ Add `MACHINE="imx6ul-pico-hobbit"` in your `<build-dir>/conf/local.conf` file an
 
 * **Go to serial download mode**
 
-See how on "4.1.3 Changing Hobbitboard boot mode" from [here](http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf). Unfortunately it's a PDF and there is no possible cross reference to the exact section
+See how on "4.1.3 Changing Hobbitboard boot mode" from here (link no longer available: `http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf`). Unfortunately it's a PDF and there is no possible cross reference to the exact section
 
 * Using imx_usb, load the (2016.05) u-boot
 
@@ -82,7 +82,7 @@ $ sudo dd if=image.sdcard of=/dev/sdX
 
 * **Turn off, go to eMMC boot, turn on**
 
-See how on "4.1.3 Changing Hobbitboard boot mode" from [here](http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf). Unfortunately it's a PDF and there is no possible cross reference to the exact section
+See how on "4.1.3 Changing Hobbitboard boot mode" from here (link no longer available: `http://www.wandboard.org/images/hobbit/hobbitboard-imx6ul-reva1.pdf`). Unfortunately it's a PDF and there is no possible cross reference to the exact section
 
 ---
 This post was originally posted on [i.MXDev Blog](https://imxdev.gitlab.io/).

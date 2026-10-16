@@ -103,7 +103,7 @@ during the production phase, I highly recommend you to contact a professional.
 Follow this tutorial at your own risk!
 {: .notice--danger}
 
-[1]:http://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html#var-PACKAGE_CLASSES
+\[1\] link no longer available: `http://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html#var-PACKAGE_CLASSES`
 
 ---
 This post was originally posted on [i.MXDev Blog](https://imxdev.gitlab.io/).
